@@ -1,0 +1,23 @@
+Part,Value,Package,Description
+GYRO,MPU-6000,QFN24,3-axis gyroscope and 3-axis accelerometer
+BARO,MS5611-01BA03,SON125P-8N,High resolution altimeter sensor
+MAG,HMC5983L,LPCC16,Temperature compensated 3-axis magnetometer
+LDO,TPS79301DBVR,SOT-23-6,Ultra low noise LDO regulator
+C1,0.1uF,0603-CAP,Capacitor
+C2,0.1uF,0603-CAP,Capacitor
+C3,0.1uF,0603-CAP,Capacitor
+C4,2.2nF,0603-CAP,Capacitor
+C5,0.1uF,0603-CAP,Capacitor
+C6,0.22uF,0603-CAP,Capacitor
+C7,4.7uF,0603-CAP,Capacitor
+C8,1.0uF,0603-CAP,Capacitor
+C9,10nF,0603-CAP,Capacitor
+C10,15pF,0603-CAP,Capacitor
+C11,1.0uF,0603-CAP,Capacitor
+FB1,1K,0603,Ferrite bead
+R1,4.7K,0603-RES,Resistor
+R2,4.7K,0603-RES,Resistor
+R3,51K,0603-RES,Resistor
+R4,30.1K,0603-RES,Resistor
+JP1,8PIN,1X08_SQE_NO_SILK,Header 8
+JP2,8PIN,1X08_SQE_NO_SILK,Header 8
